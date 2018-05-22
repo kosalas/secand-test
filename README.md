@@ -1,1 +1,2 @@
-# secand-test
+# second-test
+for the learning porpus
