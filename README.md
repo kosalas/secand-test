@@ -1,2 +1,4 @@
 # second-test
-for the learning porpus
+for the learning porpus only
+
+## UPDATE FROM WINDOWS
