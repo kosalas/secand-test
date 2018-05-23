@@ -1,4 +1,4 @@
-life
+life part of the "Game Of Life"
 ====
 
 The definite Conway's Game of Life implementation in your browser. Features an infinite field &amp; Hashlife.
