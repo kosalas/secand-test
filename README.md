@@ -16,4 +16,6 @@ Links
 - Source of examples (direct link): http://www.conwaylife.com/patterns/all.zip
 
 
+sudo apt-get update
+ sudo apt-get install -y curl openssh-server ca-certificates
 ## learning purpos only
